@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio personal como presentación como programador
+# Portfolio personal
+empresa Novarama
